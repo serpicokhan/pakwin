@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en" class="h-100">
+
+
+<!-- signin.html   -->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="generator" content="">
+    <title>قالب موبایلی</title>
+
+    <!-- manifest meta -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="manifest" href="manifest.json"/>
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" href="assets/img/favicon180.png" sizes="180x180">
+    <link rel="icon" href="assets/img/favicon32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="assets/img/favicon16.png" sizes="16x16" type="image/png">
+
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&amp;display=swap"
+          rel="stylesheet">
+
+    <!-- bootstrap icons -->
+    <link rel="stylesheet" href="assets/font/bootstrap-icons.css">
+
+    <!-- swiper css -->
+    <link rel="stylesheet" href="assets/vendor/swiperjs-6.6.2/swiper-bundle.min.css">
+
+    <!-- style css for this template -->
+    <link href="assets/css/style.css" rel="stylesheet" id="style">
+</head>
+
+<body class="body-scroll d-flex flex-column h-100 dark-bg bg1" data-page="signin">
+<div class="fullwidth-section text-dark section1" style="background-color:#ffd9e8">
+<div class="container">
+    <div class="row">
+        <div class="col-6 my-3">
+            <div class="col-content" style="margin-top: 131.194px;">
+                <p style="text-align: center;"><img class="size-full wp-image-5078 aligncenter"
+                                                    src="https://maxartkiller.com/wp-content/uploads/2021/06/icons-hero.png"
+                                                    alt="" width="220"></p>
+                <h2 style="text-align: center;"><strong>GoMobileUX<br>
+                    بوت استرپ 5</strong></h2>
+                <h4 class="f-200 font-weight-bold" style="text-align: center;">قالب  پوسته نسخه موبایل HTML فروشگاهی<br></h4>
+                <div class="arrowdemo" style="text-align: center;">
+                    <div class="left-part" style="text-align: center;">
+                        <i class="fa fa-arrow-left fa-3x" style="color:#222222;"></i>
+                        <h5>نمایش   دمو</h5>
+                        <div class="spacer spacer-small"></div>
+                    </div>
+                    <div class="right-part" style="text-align: center;"><img
+                            class="aligncenter size-full wp-image-8891"
+                            src="https://maxartkiller.com/wp-content/uploads/2021/07/gomobileux-html.png" alt=""
+                            width="120">
+							</div>
+														<span class="icon">
+			<span class="arrow">
+				<svg xmlns="http://www.w3.org/2000/svg" width="22" viewBox="0 0 13.2 9">
+				<path d="M13.1,4.4c0-0.2-0.1-0.4-0.2-0.5c0,0,0,0,0,0L9.1,0.2c-0.3-0.3-0.7-0.3-1,0c-0.3,0.3-0.3,0.7,0,1l2.6,2.6H0.7					c-0.4,0-0.7,0.3-0.7,0.7c0,0.4,0.3,0.7,0.7,0.7h10L8.2,7.8c-0.3,0.3-0.3,0.7,0,1c0.3,0.3,0.7,0.3,1,0L12.9,5c0,0,0,0,0,0					C13,4.9,13,4.8,13.1,4.8c0,0,0,0,0,0C13.1,4.6,13.1,4.5,13.1,4.4z"></path>
+				</svg>
+			</span>
+		</span>
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="col-content text-center">
+                <div class="phone3d">
+                    <iframe src="home.html"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+<!-- Required jquery and libraries -->
+<script src="assets/js/jquery-3.3.1.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/vendor/bootstrap-5/js/bootstrap.bundle.min.js"></script>
+
+<!-- cookie js -->
+<script src="assets/js/jquery.cookie.js"></script>
+
+<!-- swiper script -->
+<script src="assets/vendor/swiperjs-6.6.2/swiper-bundle.min.js"></script>
+
+<!-- page level custom script -->
+<script src="assets/js/app.js"></script>
+
+<!-- Customized jquery file  -->
+<script src="assets/js/main.js"></script>
+<script src="assets/js/color-scheme.js"></script>
+
+<!-- PWA app service registration and works -->
+<script src="assets/js/pwa-services.js"></script>
+
+</body>
+
+
+<!-- signin.html  17:22:38 GMT -->
+</html>
